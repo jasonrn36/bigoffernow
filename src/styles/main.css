@@ -58,7 +58,7 @@ h3 {
     color: #262626;
     margin-bottom: 30px;
     font-family: 'Arial', sans-serif;
-    text-shadow: 1px 1px 2px #176400;
+    text-shadow: 1px 1px 2px #e0e0e0;
 }
 
 /* Container dos botões */
@@ -75,7 +75,7 @@ h3 {
     align-items: center;
     gap: 15px;
     align-items: flex-start;
-    background-color: #058f00;
+    background-color: #39006e;
     padding: 8px;
 }
 
