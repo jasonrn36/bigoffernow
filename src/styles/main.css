@@ -52,7 +52,6 @@ body {
 }
 
 .imagem-perfil {
-    background-color: red;
     border-radius: 150%;
     clip-path: circle(150%);
 }
